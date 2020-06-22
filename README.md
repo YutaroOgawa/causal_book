@@ -1,7 +1,7 @@
-##　つくりながら学ぶ! Python による因果分析 ~因果推論・因果探索の実践入門
+## つくりながら学ぶ! Python による因果分析 ~因果推論・因果探索の実践入門
 
 <div align="center">
-<img src="./etc/book.jpg" alt="" title="" width=60%>
+<img src="./etc/book.jpg" alt="" title="" width=20%>
 </div>
 
 <br>
