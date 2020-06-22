@@ -16,7 +16,7 @@
 
 本書の概要を以下の記事で解説しております。
 
-[「Python による因果推論と因果探索（初心者の方向け）」](https://qiita.com/sugulu/items/07253d12b1fc72e16aba)
+[「Python による因果推論と因果探索（初心者の方向け）」](https://qiita.com/sugulu/items/2cffb239b44853b07f70)
 
 <br>
 
